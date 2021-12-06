@@ -1,0 +1,11 @@
+C:\Users\xStana'Dev\source\repos\EnKucuk\EnKucuk\obj\Debug\netcoreapp2.2\EnKucuk.csprojAssemblyReference.cache
+C:\Users\xStana'Dev\source\repos\EnKucuk\EnKucuk\obj\Debug\netcoreapp2.2\EnKucuk.csproj.CoreCompileInputs.cache
+C:\Users\xStana'Dev\source\repos\EnKucuk\EnKucuk\obj\Debug\netcoreapp2.2\EnKucuk.AssemblyInfoInputs.cache
+C:\Users\xStana'Dev\source\repos\EnKucuk\EnKucuk\obj\Debug\netcoreapp2.2\EnKucuk.AssemblyInfo.cs
+C:\Users\xStana'Dev\source\repos\EnKucuk\EnKucuk\bin\Debug\netcoreapp2.2\EnKucuk.deps.json
+C:\Users\xStana'Dev\source\repos\EnKucuk\EnKucuk\bin\Debug\netcoreapp2.2\EnKucuk.runtimeconfig.json
+C:\Users\xStana'Dev\source\repos\EnKucuk\EnKucuk\bin\Debug\netcoreapp2.2\EnKucuk.runtimeconfig.dev.json
+C:\Users\xStana'Dev\source\repos\EnKucuk\EnKucuk\bin\Debug\netcoreapp2.2\EnKucuk.dll
+C:\Users\xStana'Dev\source\repos\EnKucuk\EnKucuk\bin\Debug\netcoreapp2.2\EnKucuk.pdb
+C:\Users\xStana'Dev\source\repos\EnKucuk\EnKucuk\obj\Debug\netcoreapp2.2\EnKucuk.dll
+C:\Users\xStana'Dev\source\repos\EnKucuk\EnKucuk\obj\Debug\netcoreapp2.2\EnKucuk.pdb
