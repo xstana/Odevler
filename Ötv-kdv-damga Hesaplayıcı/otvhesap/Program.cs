@@ -11,7 +11,7 @@ namespace otvhesap
             // Kullanıcıdan aracın fiyat bilgisini alma / Double olarak aracfiyat değişkenine atama
             Console.WriteLine("Aracınızın satış fiyatını giriniz. ");
             aracfiyat = Convert.ToDouble(Console.ReadLine());
-
+                Console.Clear();
             //ÖTV %45, KDV %18 ve Damga Vergisi %1 olarak hesaplanacaktır.
 
             OtvTutari = (aracfiyat * 45) /100 ; // Ötv Tutarını hesaplama
