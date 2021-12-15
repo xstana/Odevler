@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace EnKucuk
 {
@@ -12,19 +12,22 @@ namespace EnKucuk
             Console.WriteLine("Ondalıklı sayı girerken virgül kullanınız. \n ");
 
             // Sayıların kullanıcıdan alınması / Readline ile okunup double olarak değişkenlere atanması
-            Console.WriteLine("1. Sayıyı Giriniz : "); 
+            Console.WriteLine("1. Sayıyı Giriniz : ");
             sayi1 = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("2. Sayıyı Giriniz : "); 
+            Console.Clear();
+            Console.WriteLine("2. Sayıyı Giriniz : ");
             sayi2 = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("3. Sayıyı Giriniz :  "); 
+            Console.Clear();
+            Console.WriteLine("3. Sayıyı Giriniz :  ");
             sayi3 = Convert.ToDouble(Console.ReadLine());
+            Console.Clear();
 
-
+            Console.ForegroundColor = ConsoleColor.Red;
             if (sayi1 < sayi2 && sayi1 < sayi3)  // Sayı 1'in sayı 2 ve 3 ten küçük olduğu if koşulu
 
             {
                 // Sonucun yazdırılması
-                Console.WriteLine("\n 3 sayının arasından en küçük sayı : {0} \n" + 
+                Console.WriteLine("\n 3 sayının arasından en küçük sayı : {0} \n" +
                             " Bu sayıyı 1. adımda girdiniz", sayi1);
             }
 
@@ -45,11 +48,11 @@ namespace EnKucuk
                         " Bu sayıyı 3. adımda girdiniz", sayi3);
             }
 
-
+            Console.ResetColor();
 
             // Orkun Onuk 21908004
 
-            Console.ReadKey(); 
+            Console.ReadKey();
         }
     }
 }
