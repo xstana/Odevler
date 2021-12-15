@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace MtvHesap
 {
@@ -20,13 +20,13 @@ namespace MtvHesap
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("\n  \n Lüften Araç Tipinizi Seçiniz ; \n");
             Console.ResetColor();
-              Console.WriteLine("-----\n" +
-                "1 - Binek Otomobil \n" +
-                "2 - Ticari Araç \n" +
-                "------\n" +
-                "Seçim yapınız (1-2) ;\n");
+            Console.WriteLine("-----\n" +
+              "1 - Binek Otomobil \n" +
+              "2 - Ticari Araç \n" +
+              "------\n" +
+              "Seçim yapınız (1-2) ;\n");
             tipsecim = Convert.ToInt32(Console.ReadLine());
-
+            Console.Clear();
 
             //   //Araç Yaşı seçimi - Seçimi  okuma ve int32 olarak değişkene atama
             Console.ForegroundColor = ConsoleColor.Red;
@@ -40,22 +40,22 @@ namespace MtvHesap
                 "------\n" +
                 "Seçim Yapınız (1-2-3-4)\n");
             yassecim = Convert.ToInt32(Console.ReadLine());
-
+            Console.Clear();
 
             // Hacim seçimi - Kullanıcı girdisini okuma ve int32 değişkene atama
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("Hacim Seçimi Yapınız. ");
             Console.ResetColor();
-                Console.WriteLine("\n ------\n" +
-                "1 - 0-1300 cc arası\n" +
-                "2 - 1301-1600 cc arası\n" +
-                "3 - 1601-2000  cc arası\n" +
-                "4 - 2001-2500  cc arası\n" +
-                "5 - 2500 cc ve üzeri\n" +
-                "------\n" +
-                "Seçim Yapınız (1-2-3-4-5)\n");
+            Console.WriteLine("\n ------\n" +
+            "1 - 0-1300 cc arası\n" +
+            "2 - 1301-1600 cc arası\n" +
+            "3 - 1601-2000  cc arası\n" +
+            "4 - 2001-2500  cc arası\n" +
+            "5 - 2500 cc ve üzeri\n" +
+            "------\n" +
+            "Seçim Yapınız (1-2-3-4-5)\n");
             hacimsecim = Convert.ToInt32(Console.ReadLine());
-
+            Console.Clear();
 
             //  Kullanıcıdan alınan tipsecim değişkenindeki veriye göre if karar yapısı
 
@@ -69,7 +69,7 @@ namespace MtvHesap
             }
 
             else // 2 seçeneğinde gerçekleşmediği durumda hata vermemesi
-                //için kullanıcının uyarılması ve goto ile başa gönderilmesi
+                 //için kullanıcının uyarılması ve goto ile başa gönderilmesi
             {
                 Console.BackgroundColor = ConsoleColor.Yellow;
                 Console.ForegroundColor = ConsoleColor.Red;
@@ -77,7 +77,7 @@ namespace MtvHesap
                 Console.ResetColor();
                 Console.WriteLine("Yanlış bir tip seçimi yaptınız. \n " +
                     "Yeniden seçim yapmanız için yönlendiriliyorsunuz...");
-              
+
                 goto Bas;
             }
 
@@ -113,8 +113,8 @@ namespace MtvHesap
             }
 
             // Seçilen hacim aralığına göre switch karar yapısı
-            switch(hacimsecim)
-                {
+            switch (hacimsecim)
+            {
                 case 1:
                     tutar = tutar * 2; // 0-1300 aralığındaki hacim
                     break;
@@ -140,18 +140,18 @@ namespace MtvHesap
            "Yeniden seçim yapmanız için yönlendiriliyorsunuz...");
                     goto Bas;
             }
-            
+
             // Hesaplama sonuç çıktısı
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("\n------\n" +
-                "Ödemeniz gereken toplam toplam vergi tutarı {0}TL'dir.\n",tutar);
-         Console.ResetColor();
+                "Ödemeniz gereken toplam toplam vergi tutarı {0}TL'dir.\n", tutar);
+            Console.ResetColor();
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("\n \nTürkiye serverında bol şans..."); // Teselli
             Console.ResetColor();
 
             // Bitiş
-            Console.ReadKey();  
+            Console.ReadKey();
         }
     }         // Orkun ONUK 21908004
 }
