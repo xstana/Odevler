@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MTV Hesaplayıcı V2/1.0.0": {
+        "runtime": {
+          "MTV Hesaplayıcı V2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MTV Hesaplayıcı V2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

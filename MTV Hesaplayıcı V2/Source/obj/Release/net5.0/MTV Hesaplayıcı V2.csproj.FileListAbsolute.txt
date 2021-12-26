@@ -1,0 +1,16 @@
+C:\Users\teknosa\source\repos\MTV Hesaplayıcı V2\MTV Hesaplayıcı V2\bin\Release\net5.0\MTV Hesaplayıcı V2.exe
+C:\Users\teknosa\source\repos\MTV Hesaplayıcı V2\MTV Hesaplayıcı V2\bin\Release\net5.0\MTV Hesaplayıcı V2.deps.json
+C:\Users\teknosa\source\repos\MTV Hesaplayıcı V2\MTV Hesaplayıcı V2\bin\Release\net5.0\MTV Hesaplayıcı V2.runtimeconfig.json
+C:\Users\teknosa\source\repos\MTV Hesaplayıcı V2\MTV Hesaplayıcı V2\bin\Release\net5.0\MTV Hesaplayıcı V2.runtimeconfig.dev.json
+C:\Users\teknosa\source\repos\MTV Hesaplayıcı V2\MTV Hesaplayıcı V2\bin\Release\net5.0\MTV Hesaplayıcı V2.dll
+C:\Users\teknosa\source\repos\MTV Hesaplayıcı V2\MTV Hesaplayıcı V2\bin\Release\net5.0\ref\MTV Hesaplayıcı V2.dll
+C:\Users\teknosa\source\repos\MTV Hesaplayıcı V2\MTV Hesaplayıcı V2\bin\Release\net5.0\MTV Hesaplayıcı V2.pdb
+C:\Users\teknosa\source\repos\MTV Hesaplayıcı V2\MTV Hesaplayıcı V2\obj\Release\net5.0\MTV Hesaplayıcı V2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teknosa\source\repos\MTV Hesaplayıcı V2\MTV Hesaplayıcı V2\obj\Release\net5.0\MTV Hesaplayıcı V2.AssemblyInfoInputs.cache
+C:\Users\teknosa\source\repos\MTV Hesaplayıcı V2\MTV Hesaplayıcı V2\obj\Release\net5.0\MTV Hesaplayıcı V2.AssemblyInfo.cs
+C:\Users\teknosa\source\repos\MTV Hesaplayıcı V2\MTV Hesaplayıcı V2\obj\Release\net5.0\MTV Hesaplayıcı V2.csproj.CoreCompileInputs.cache
+C:\Users\teknosa\source\repos\MTV Hesaplayıcı V2\MTV Hesaplayıcı V2\obj\Release\net5.0\MTV Hesaplayıcı V2.dll
+C:\Users\teknosa\source\repos\MTV Hesaplayıcı V2\MTV Hesaplayıcı V2\obj\Release\net5.0\ref\MTV Hesaplayıcı V2.dll
+C:\Users\teknosa\source\repos\MTV Hesaplayıcı V2\MTV Hesaplayıcı V2\obj\Release\net5.0\MTV Hesaplayıcı V2.pdb
+C:\Users\teknosa\source\repos\MTV Hesaplayıcı V2\MTV Hesaplayıcı V2\obj\Release\net5.0\MTV Hesaplayıcı V2.genruntimeconfig.cache
+C:\Users\teknosa\source\repos\MTV Hesaplayıcı V2\MTV Hesaplayıcı V2\obj\Release\net5.0\MTV Hesaplayıcı V2.csproj.AssemblyReference.cache
