@@ -182,11 +182,13 @@ namespace MtvHesap
 
 
             // Araç bilgilerini yazdırma
+            
+            
             Console.ForegroundColor = ConsoleColor.Yellow;
             daktilo(" \n \n>> Araç Bilgileriniz: ", 45);
             Console.ResetColor();
 
-            switch (tipsecim)
+            switch (tipsecim) // Araç tipini yazdırma
             {
                 case 1:
                     daktilo("\n> Araç Tipiniz : Binek Otomobil ", 15);
@@ -199,7 +201,7 @@ namespace MtvHesap
                     break;
             }
 
-            switch (yassecim)
+            switch (yassecim) // Araç yaşını yazdırma
             {
                 case 1:
                     daktilo("\n> Araç Yaşınız : 1 ile 3 yaş arası ", 15);
@@ -219,7 +221,7 @@ namespace MtvHesap
 
             }
 
-            switch (hacimsecim)
+            switch (hacimsecim) // Araç hacmini yazdırma
             {
                 case 1:
                     daktilo("\n> Araç Hacminiz : 0-1300cc arası ", 15);
