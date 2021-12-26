@@ -19,7 +19,7 @@ namespace EnKucuk
         {
         bas:
             double sayi1 = 0, sayi2 = 0, sayi3 = 0; // Sonradan kullanılacak değişkenlerin tanımlanması
-
+            Console.Title = ("****  3 Sayıdan en küçüğü V2 - Orkun ONUK  ****"); // Consolun adını değiştirdik
             Console.ForegroundColor = ConsoleColor.Blue;
             daktilo("Bu program girilen 3 sayı arasından en küçüğünü verecektir.",55);
             daktilo("....", 1000);
