@@ -10,4 +10,5 @@
 
 <div align="center">
 
-Okuldad verilen ödevleri burda depoluyorum, ki gelecekte "Bu böylemi yazılır lan?" diyebileyim.. <br>
+Okulda verilen ödevleri burda depoluyorum ki gelecekte "Bu böylemi yazılır lan?" diyebileyim. <br>
+
