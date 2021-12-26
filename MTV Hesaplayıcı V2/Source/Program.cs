@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Threading;
 
 namespace MtvHesap
@@ -40,23 +40,38 @@ namespace MtvHesap
 
             //Araç Tipi seçimi - Seçimi okuma ve int32 olarak değişkene atadık
             Console.ForegroundColor = ConsoleColor.Red;
-            daktilo("\n  \n Lüften Araç Tipinizi Seçiniz ; \n", 45);
+            daktilo("
+  
+ Lüften Araç Tipinizi Seçiniz ; 
+", 45);
             Console.ResetColor();
-            daktilo(" -----\n" + " 1 - Binek Otomobil \n" + " 2 - Ticari Araç \n" + " ------\n" + " >>>  ", 15);
+            daktilo(" -----
+" + " 1 - Binek Otomobil 
+" + " 2 - Ticari Araç 
+" + " ------
+" + " >>>  ", 15);
             tipsecim = Convert.ToInt32(Console.ReadLine());
             Console.Clear(); // Konsolu temizledik
 
 
             //Araç Yaşı seçimi - Seçimi  okuma ve int32 olarak değişkene atama
             Console.ForegroundColor = ConsoleColor.Red;
-            daktilo("\n Yaş Seçimi Yapınız. ", 45);
+            daktilo("
+ Yaş Seçimi Yapınız. ", 45);
             Console.ResetColor();
-            daktilo("\n------\n" +
-                "1 - 1 - 3 Yaş\n" +
-                "2 - 4 - 7 Yaş\n" +
-                "3 - 7 - 11 Yaş\n" +
-                "4 - 11 Yaşından büyük\n " +
-                "------\n" +
+            daktilo("
+------
+" +
+                "1 - 1 - 3 Yaş
+" +
+                "2 - 4 - 7 Yaş
+" +
+                "3 - 7 - 11 Yaş
+" +
+                "4 - 11 Yaşından büyük
+ " +
+                "------
+" +
                 ">>  ", 15);
             yassecim = Convert.ToInt32(Console.ReadLine());
             Console.Clear();
@@ -66,13 +81,21 @@ namespace MtvHesap
             Console.ForegroundColor = ConsoleColor.Red;
             daktilo("Hacim Seçimi Yapınız. ", 45);
             Console.ResetColor();
-            daktilo("\n ------\n" +
-            "1 - 0-1300 cc arası\n" +
-            "2 - 1301-1600 cc arası\n" +
-            "3 - 1601-2000  cc arası\n" +
-            "4 - 2001-2500  cc arası\n" +
-            "5 - 2500 cc ve üzeri\n" +
-            "------\n" +
+            daktilo("
+ ------
+" +
+            "1 - 0-1300 cc arası
+" +
+            "2 - 1301-1600 cc arası
+" +
+            "3 - 1601-2000  cc arası
+" +
+            "4 - 2001-2500  cc arası
+" +
+            "5 - 2500 cc ve üzeri
+" +
+            "------
+" +
             ">>  ", 15);
             hacimsecim = Convert.ToInt32(Console.ReadLine());
             Console.Clear();
@@ -94,11 +117,14 @@ namespace MtvHesap
             {
                 Console.BackgroundColor = ConsoleColor.Yellow;
                 Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine("HATA\n");
+                Console.WriteLine("HATA
+");
                 Console.ResetColor();
                 Console.ForegroundColor = ConsoleColor.Yellow;
-                daktilo("Yanlış bir tip seçimi yaptınız. \n " +
-                    "\nYeniden seçim yapmanız için yönlendiriliyorsunuz", 45);
+                daktilo("Yanlış bir tip seçimi yaptınız. 
+ " +
+                    "
+Yeniden seçim yapmanız için yönlendiriliyorsunuz", 45);
                 daktilo("..... ", 700);
                 Console.ResetColor();
                 Console.Clear();
@@ -131,13 +157,17 @@ namespace MtvHesap
             { // Yine aralık dışı seçimde karşılaşılacak hata mesajı ve goto etiketi
                 Console.BackgroundColor = ConsoleColor.Yellow;
                 Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine("HATA!\n");
+                Console.WriteLine("HATA!
+");
                 Console.ResetColor();
                 Console.ForegroundColor = ConsoleColor.Yellow;
-                daktilo("Yanlış bir yaş seçimi yaptınız. \n " +
-                    "\nYeniden seçim yapmanız için yönlendiriliyorsunuz", 45);
+                daktilo("Yanlış bir yaş seçimi yaptınız. 
+ " +
+                    "
+Yeniden seçim yapmanız için yönlendiriliyorsunuz", 45);
                 daktilo("..... ", 700);
                 Console.ResetColor();
+                goto Bas;
                 Console.Clear();
             }
 
@@ -163,14 +193,18 @@ namespace MtvHesap
                 default: // 5 durum dışında seçilen değerler için varsayılan durum olarak hata mesajı
                     Console.BackgroundColor = ConsoleColor.Yellow;
                     Console.ForegroundColor = ConsoleColor.Red;
-                    Console.WriteLine("HATA! \n");
+                    Console.WriteLine("HATA! 
+");
                     Console.ResetColor();
                     Console.ForegroundColor = ConsoleColor.Yellow;
-                    daktilo("Yanlış bir hacim seçimi yaptınız. \n " +
-                        "\nYeniden seçim yapmanız için yönlendiriliyorsunuz", 45);
+                    daktilo("Yanlış bir hacim seçimi yaptınız. 
+ " +
+                        "
+Yeniden seçim yapmanız için yönlendiriliyorsunuz", 45);
                     daktilo("..... ", 700);
                     Console.ResetColor();
                     Console.Clear();
+                    goto Bas;
                     break;
             }
 
@@ -185,16 +219,20 @@ namespace MtvHesap
             
             
             Console.ForegroundColor = ConsoleColor.Yellow;
-            daktilo(" \n \n>> Araç Bilgileriniz: ", 45);
+            daktilo(" 
+ 
+>> Araç Bilgileriniz: ", 45);
             Console.ResetColor();
 
             switch (tipsecim) // Araç tipini yazdırma
             {
                 case 1:
-                    daktilo("\n> Araç Tipiniz : Binek Otomobil ", 15);
+                    daktilo("
+> Araç Tipiniz : Binek Otomobil ", 15);
                     break;
                 case 2:
-                    daktilo("\n> Araç Tipiniz : Ticari Araç", 15);
+                    daktilo("
+> Araç Tipiniz : Ticari Araç", 15);
                     break;
                 default:
                     daktilo("NULL", 15);
@@ -204,16 +242,20 @@ namespace MtvHesap
             switch (yassecim) // Araç yaşını yazdırma
             {
                 case 1:
-                    daktilo("\n> Araç Yaşınız : 1 ile 3 yaş arası ", 15);
+                    daktilo("
+> Araç Yaşınız : 1 ile 3 yaş arası ", 15);
                     break;
                 case 2:
-                    daktilo("\n> Araç Yaşınız : 4 ile 7 yaş arası", 15);
+                    daktilo("
+> Araç Yaşınız : 4 ile 7 yaş arası", 15);
                     break;
                 case 3:
-                    daktilo("\n> Araç Yaşınız : 7 ile 11 yaş arası ", 15);
+                    daktilo("
+> Araç Yaşınız : 7 ile 11 yaş arası ", 15);
                     break;
                 case 4:
-                    daktilo("\n> Araç Yaşınız : 11 yaşından büyük", 15);
+                    daktilo("
+> Araç Yaşınız : 11 yaşından büyük", 15);
                     break;
                 default:
                     daktilo("NULL", 15);
@@ -224,19 +266,24 @@ namespace MtvHesap
             switch (hacimsecim) // Araç hacmini yazdırma
             {
                 case 1:
-                    daktilo("\n> Araç Hacminiz : 0-1300cc arası ", 15);
+                    daktilo("
+> Araç Hacminiz : 0-1300cc arası ", 15);
                     break;
                 case 2:
-                    daktilo("\n> Araç Hacminiz : 1301-1600cc arası", 15);
+                    daktilo("
+> Araç Hacminiz : 1301-1600cc arası", 15);
                     break;
                 case 3:
-                    daktilo("\n> Araç Hacminiz : 1601-2000cc arası", 15);
+                    daktilo("
+> Araç Hacminiz : 1601-2000cc arası", 15);
                     break;
                   case 4:
-                    daktilo("\n> Araç Hacminiz : 2001-2500cc arası ", 15);
+                    daktilo("
+> Araç Hacminiz : 2001-2500cc arası ", 15);
                     break;
                 case 5:
-                    daktilo("\n> Araç Hacminiz : 2500cc ve üzeri", 15);
+                    daktilo("
+> Araç Hacminiz : 2500cc ve üzeri", 15);
                     break;
                 default:
                     daktilo("NULL",15);
@@ -245,7 +292,11 @@ namespace MtvHesap
 
 
                Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("\n \n \n \n                             Türkiye serverında bol şans..."); // Teselli
+            Console.WriteLine("
+ 
+ 
+ 
+                             Türkiye serverında bol şans..."); // Teselli
             Console.ResetColor();
 
 
