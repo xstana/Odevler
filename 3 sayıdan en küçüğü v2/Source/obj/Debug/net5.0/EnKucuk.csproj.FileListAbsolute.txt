@@ -1,0 +1,16 @@
+C:\Users\teknosa\source\repos\EnKucuk\EnKucuk\bin\Debug\net5.0\EnKucuk.exe
+C:\Users\teknosa\source\repos\EnKucuk\EnKucuk\bin\Debug\net5.0\EnKucuk.deps.json
+C:\Users\teknosa\source\repos\EnKucuk\EnKucuk\bin\Debug\net5.0\EnKucuk.runtimeconfig.json
+C:\Users\teknosa\source\repos\EnKucuk\EnKucuk\bin\Debug\net5.0\EnKucuk.runtimeconfig.dev.json
+C:\Users\teknosa\source\repos\EnKucuk\EnKucuk\bin\Debug\net5.0\EnKucuk.dll
+C:\Users\teknosa\source\repos\EnKucuk\EnKucuk\bin\Debug\net5.0\ref\EnKucuk.dll
+C:\Users\teknosa\source\repos\EnKucuk\EnKucuk\bin\Debug\net5.0\EnKucuk.pdb
+C:\Users\teknosa\source\repos\EnKucuk\EnKucuk\obj\Debug\net5.0\EnKucuk.csproj.AssemblyReference.cache
+C:\Users\teknosa\source\repos\EnKucuk\EnKucuk\obj\Debug\net5.0\EnKucuk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teknosa\source\repos\EnKucuk\EnKucuk\obj\Debug\net5.0\EnKucuk.AssemblyInfoInputs.cache
+C:\Users\teknosa\source\repos\EnKucuk\EnKucuk\obj\Debug\net5.0\EnKucuk.AssemblyInfo.cs
+C:\Users\teknosa\source\repos\EnKucuk\EnKucuk\obj\Debug\net5.0\EnKucuk.csproj.CoreCompileInputs.cache
+C:\Users\teknosa\source\repos\EnKucuk\EnKucuk\obj\Debug\net5.0\EnKucuk.dll
+C:\Users\teknosa\source\repos\EnKucuk\EnKucuk\obj\Debug\net5.0\ref\EnKucuk.dll
+C:\Users\teknosa\source\repos\EnKucuk\EnKucuk\obj\Debug\net5.0\EnKucuk.pdb
+C:\Users\teknosa\source\repos\EnKucuk\EnKucuk\obj\Debug\net5.0\EnKucuk.genruntimeconfig.cache
