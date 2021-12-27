@@ -1,15 +1,15 @@
 <div align="center">
-<h2>Çeşiitkenar Üçgen Alan Hesaplayıcı V2</></h2>
+<h2>MTV Hesaplayıcı V2</></h2>
 </div>
 
 <div align="center" width="50">
 
-<img src="https://giffiles.alphacoders.com/377/3772.gif" width="300"/>
+<img src="b" width="300"/>
 
 </div>
 
 <div align="center">
 
-Okul ödevim olan çeşitkenar üçgenin alanını hesaplama programı. <br>
+Okul ödevim olan motorlu taşıtlar vergisini hesaplama programı. <br>
  Programı exeden çalıştırabilirsiniz kodlar ise source klasöründe bulunuyor.
 
