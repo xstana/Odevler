@@ -1,5 +1,5 @@
 <div align="center">
-<h2>MTV Hesaplayıcı V2</></h2>
+<h2>Çeşiitkenar Üçgen Alan Hesaplayıcı V2</></h2>
 </div>
 
 <div align="center" width="50">
