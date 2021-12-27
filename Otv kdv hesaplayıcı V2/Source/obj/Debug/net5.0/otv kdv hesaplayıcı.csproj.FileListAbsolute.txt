@@ -1,0 +1,16 @@
+C:\Users\teknosa\source\repos\otv kdv hesaplayıcı\otv kdv hesaplayıcı\obj\Debug\net5.0\otv kdv hesaplayıcı.csproj.AssemblyReference.cache
+C:\Users\teknosa\source\repos\otv kdv hesaplayıcı\otv kdv hesaplayıcı\obj\Debug\net5.0\otv kdv hesaplayıcı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teknosa\source\repos\otv kdv hesaplayıcı\otv kdv hesaplayıcı\obj\Debug\net5.0\otv kdv hesaplayıcı.AssemblyInfoInputs.cache
+C:\Users\teknosa\source\repos\otv kdv hesaplayıcı\otv kdv hesaplayıcı\obj\Debug\net5.0\otv kdv hesaplayıcı.AssemblyInfo.cs
+C:\Users\teknosa\source\repos\otv kdv hesaplayıcı\otv kdv hesaplayıcı\obj\Debug\net5.0\otv kdv hesaplayıcı.csproj.CoreCompileInputs.cache
+C:\Users\teknosa\source\repos\otv kdv hesaplayıcı\otv kdv hesaplayıcı\bin\Debug\net5.0\otv kdv hesaplayıcı.exe
+C:\Users\teknosa\source\repos\otv kdv hesaplayıcı\otv kdv hesaplayıcı\bin\Debug\net5.0\otv kdv hesaplayıcı.deps.json
+C:\Users\teknosa\source\repos\otv kdv hesaplayıcı\otv kdv hesaplayıcı\bin\Debug\net5.0\otv kdv hesaplayıcı.runtimeconfig.json
+C:\Users\teknosa\source\repos\otv kdv hesaplayıcı\otv kdv hesaplayıcı\bin\Debug\net5.0\otv kdv hesaplayıcı.runtimeconfig.dev.json
+C:\Users\teknosa\source\repos\otv kdv hesaplayıcı\otv kdv hesaplayıcı\bin\Debug\net5.0\otv kdv hesaplayıcı.dll
+C:\Users\teknosa\source\repos\otv kdv hesaplayıcı\otv kdv hesaplayıcı\bin\Debug\net5.0\ref\otv kdv hesaplayıcı.dll
+C:\Users\teknosa\source\repos\otv kdv hesaplayıcı\otv kdv hesaplayıcı\bin\Debug\net5.0\otv kdv hesaplayıcı.pdb
+C:\Users\teknosa\source\repos\otv kdv hesaplayıcı\otv kdv hesaplayıcı\obj\Debug\net5.0\otv kdv hesaplayıcı.dll
+C:\Users\teknosa\source\repos\otv kdv hesaplayıcı\otv kdv hesaplayıcı\obj\Debug\net5.0\ref\otv kdv hesaplayıcı.dll
+C:\Users\teknosa\source\repos\otv kdv hesaplayıcı\otv kdv hesaplayıcı\obj\Debug\net5.0\otv kdv hesaplayıcı.pdb
+C:\Users\teknosa\source\repos\otv kdv hesaplayıcı\otv kdv hesaplayıcı\obj\Debug\net5.0\otv kdv hesaplayıcı.genruntimeconfig.cache
