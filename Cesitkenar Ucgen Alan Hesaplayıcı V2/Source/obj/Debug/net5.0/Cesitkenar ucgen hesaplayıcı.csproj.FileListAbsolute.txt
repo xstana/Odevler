@@ -1,0 +1,16 @@
+C:\Users\teknosa\source\repos\Cesitkenar ucgen hesaplayıcı\Cesitkenar ucgen hesaplayıcı\bin\Debug\net5.0\Cesitkenar ucgen hesaplayıcı.exe
+C:\Users\teknosa\source\repos\Cesitkenar ucgen hesaplayıcı\Cesitkenar ucgen hesaplayıcı\bin\Debug\net5.0\Cesitkenar ucgen hesaplayıcı.deps.json
+C:\Users\teknosa\source\repos\Cesitkenar ucgen hesaplayıcı\Cesitkenar ucgen hesaplayıcı\bin\Debug\net5.0\Cesitkenar ucgen hesaplayıcı.runtimeconfig.json
+C:\Users\teknosa\source\repos\Cesitkenar ucgen hesaplayıcı\Cesitkenar ucgen hesaplayıcı\bin\Debug\net5.0\Cesitkenar ucgen hesaplayıcı.runtimeconfig.dev.json
+C:\Users\teknosa\source\repos\Cesitkenar ucgen hesaplayıcı\Cesitkenar ucgen hesaplayıcı\bin\Debug\net5.0\Cesitkenar ucgen hesaplayıcı.dll
+C:\Users\teknosa\source\repos\Cesitkenar ucgen hesaplayıcı\Cesitkenar ucgen hesaplayıcı\bin\Debug\net5.0\ref\Cesitkenar ucgen hesaplayıcı.dll
+C:\Users\teknosa\source\repos\Cesitkenar ucgen hesaplayıcı\Cesitkenar ucgen hesaplayıcı\bin\Debug\net5.0\Cesitkenar ucgen hesaplayıcı.pdb
+C:\Users\teknosa\source\repos\Cesitkenar ucgen hesaplayıcı\Cesitkenar ucgen hesaplayıcı\obj\Debug\net5.0\Cesitkenar ucgen hesaplayıcı.csproj.AssemblyReference.cache
+C:\Users\teknosa\source\repos\Cesitkenar ucgen hesaplayıcı\Cesitkenar ucgen hesaplayıcı\obj\Debug\net5.0\Cesitkenar ucgen hesaplayıcı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teknosa\source\repos\Cesitkenar ucgen hesaplayıcı\Cesitkenar ucgen hesaplayıcı\obj\Debug\net5.0\Cesitkenar ucgen hesaplayıcı.AssemblyInfoInputs.cache
+C:\Users\teknosa\source\repos\Cesitkenar ucgen hesaplayıcı\Cesitkenar ucgen hesaplayıcı\obj\Debug\net5.0\Cesitkenar ucgen hesaplayıcı.AssemblyInfo.cs
+C:\Users\teknosa\source\repos\Cesitkenar ucgen hesaplayıcı\Cesitkenar ucgen hesaplayıcı\obj\Debug\net5.0\Cesitkenar ucgen hesaplayıcı.csproj.CoreCompileInputs.cache
+C:\Users\teknosa\source\repos\Cesitkenar ucgen hesaplayıcı\Cesitkenar ucgen hesaplayıcı\obj\Debug\net5.0\Cesitkenar ucgen hesaplayıcı.dll
+C:\Users\teknosa\source\repos\Cesitkenar ucgen hesaplayıcı\Cesitkenar ucgen hesaplayıcı\obj\Debug\net5.0\ref\Cesitkenar ucgen hesaplayıcı.dll
+C:\Users\teknosa\source\repos\Cesitkenar ucgen hesaplayıcı\Cesitkenar ucgen hesaplayıcı\obj\Debug\net5.0\Cesitkenar ucgen hesaplayıcı.pdb
+C:\Users\teknosa\source\repos\Cesitkenar ucgen hesaplayıcı\Cesitkenar ucgen hesaplayıcı\obj\Debug\net5.0\Cesitkenar ucgen hesaplayıcı.genruntimeconfig.cache
