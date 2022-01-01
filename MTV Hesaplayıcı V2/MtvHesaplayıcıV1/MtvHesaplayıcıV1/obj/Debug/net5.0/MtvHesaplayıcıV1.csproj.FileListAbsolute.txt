@@ -1,0 +1,16 @@
+C:\Users\orkun\source\repos\MtvHesaplayıcıV1\MtvHesaplayıcıV1\bin\Debug\net5.0\MtvHesaplayıcıV1.exe
+C:\Users\orkun\source\repos\MtvHesaplayıcıV1\MtvHesaplayıcıV1\bin\Debug\net5.0\MtvHesaplayıcıV1.deps.json
+C:\Users\orkun\source\repos\MtvHesaplayıcıV1\MtvHesaplayıcıV1\bin\Debug\net5.0\MtvHesaplayıcıV1.runtimeconfig.json
+C:\Users\orkun\source\repos\MtvHesaplayıcıV1\MtvHesaplayıcıV1\bin\Debug\net5.0\MtvHesaplayıcıV1.runtimeconfig.dev.json
+C:\Users\orkun\source\repos\MtvHesaplayıcıV1\MtvHesaplayıcıV1\bin\Debug\net5.0\MtvHesaplayıcıV1.dll
+C:\Users\orkun\source\repos\MtvHesaplayıcıV1\MtvHesaplayıcıV1\bin\Debug\net5.0\ref\MtvHesaplayıcıV1.dll
+C:\Users\orkun\source\repos\MtvHesaplayıcıV1\MtvHesaplayıcıV1\bin\Debug\net5.0\MtvHesaplayıcıV1.pdb
+C:\Users\orkun\source\repos\MtvHesaplayıcıV1\MtvHesaplayıcıV1\obj\Debug\net5.0\MtvHesaplayıcıV1.csproj.AssemblyReference.cache
+C:\Users\orkun\source\repos\MtvHesaplayıcıV1\MtvHesaplayıcıV1\obj\Debug\net5.0\MtvHesaplayıcıV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orkun\source\repos\MtvHesaplayıcıV1\MtvHesaplayıcıV1\obj\Debug\net5.0\MtvHesaplayıcıV1.AssemblyInfoInputs.cache
+C:\Users\orkun\source\repos\MtvHesaplayıcıV1\MtvHesaplayıcıV1\obj\Debug\net5.0\MtvHesaplayıcıV1.AssemblyInfo.cs
+C:\Users\orkun\source\repos\MtvHesaplayıcıV1\MtvHesaplayıcıV1\obj\Debug\net5.0\MtvHesaplayıcıV1.csproj.CoreCompileInputs.cache
+C:\Users\orkun\source\repos\MtvHesaplayıcıV1\MtvHesaplayıcıV1\obj\Debug\net5.0\MtvHesaplayıcıV1.dll
+C:\Users\orkun\source\repos\MtvHesaplayıcıV1\MtvHesaplayıcıV1\obj\Debug\net5.0\ref\MtvHesaplayıcıV1.dll
+C:\Users\orkun\source\repos\MtvHesaplayıcıV1\MtvHesaplayıcıV1\obj\Debug\net5.0\MtvHesaplayıcıV1.pdb
+C:\Users\orkun\source\repos\MtvHesaplayıcıV1\MtvHesaplayıcıV1\obj\Debug\net5.0\MtvHesaplayıcıV1.genruntimeconfig.cache
