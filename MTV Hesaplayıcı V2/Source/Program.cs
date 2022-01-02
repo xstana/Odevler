@@ -1,7 +1,7 @@
 using System;
 using System.Threading;
 
-namespace MtvHesap
+namespace Mtv_V2
 {
 	class Program
 	{
@@ -45,8 +45,8 @@ namespace MtvHesap
 ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝     ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
                                                                                                  
                                                                  ";
-			
 
+			Console.Title = ("****  HOŞ GELDİN! ****");
 			Console.WriteLine(title); // Asciiyi yazdırdık
 			Yukleniyor(); // Yukleniyor Efekti
 			Console.Clear(); // Konsolu temizledik
