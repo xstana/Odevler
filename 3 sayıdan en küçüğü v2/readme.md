@@ -12,4 +12,5 @@
 
 Okul ödevim olan 3 sayı arasından en küçüğünü veren program. <br>
  Programı exeden çalıştırabilirsiniz kodlar ise source klasöründe bulunuyor.
+ Defalarca güncellediğim için exeyi güncelleyemiyorum source kısmında bulunan kodlar güncel.
 
