@@ -4,7 +4,7 @@
 
 <div align="center" width="50">
 
-<img src="https://c.tenor.com/r0I98KMXV24AAAAM/vergiyok.gif" width="300"/>
+<img src="https://media4.giphy.com/media/yFHkrrbfITemc/giphy.gif" width="300"/>
 
 </div>
 
