@@ -4,11 +4,11 @@
 
 <div align="center" width="50">
 
-<img src="https://i.imgur.com/4da9RZN.gif" alt="!" width="300"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fprogrammer-gifs&psig=AOvVaw3zyJHYskcxl3B-Wpqf3t6L&ust=1646339931649000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJjZ5qqkqPYCFQAAAAAdAAAAABAD" alt="!" width="300"/>
 
 </div>
 
 <div align="center">
 
-Okulda verilen ödevleri burda depoluyorum ki gelecekte "Bu böylemi yazılır lan?" diyebileyim. <br>
+İlkinin günahı olmaz. <br>
 
