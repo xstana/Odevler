@@ -1,5 +1,5 @@
 <div align="center">
-<h2>Ödevler, ödevler...</></h2>
+<h2>İlk Form Uygulamam / Mini Hesaplayıcı Ödevi</></h2>
 </div>
 
 <div align="center" width="50">
