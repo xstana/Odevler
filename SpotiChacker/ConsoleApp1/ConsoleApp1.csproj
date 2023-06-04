@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E7304070-518A-442F-9308-5C716A037475}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ConsoleApp1</RootNamespace>
+    <AssemblyName>ConsoleApp1</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <StartupObject>ConsoleApp1.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Colorful.Console">
+      <HintPath>..\..\Proje\prj\release\Colorful.Console.dll</HintPath>
+    </Reference>
+    <Reference Include="DiscordRPC">
+      <HintPath>..\..\Proje\prj\release\DiscordRPC.dll</HintPath>
+    </Reference>
+    <Reference Include="Figgle">
+      <HintPath>..\..\Proje\prj\release\Figgle.dll</HintPath>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.Core">
+      <HintPath>..\..\Proje\prj\release\IKVM.OpenJDK.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.Security">
+      <HintPath>..\..\Proje\prj\release\IKVM.OpenJDK.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="IKVM.Runtime">
+      <HintPath>..\..\Proje\prj\release\IKVM.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Leaf.xNet">
+      <HintPath>..\..\Proje\prj\release\Leaf.xNet.dll</HintPath>
+    </Reference>
+    <Reference Include="lib">
+      <HintPath>..\..\Proje\prj\release\lib.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\..\Proje\prj\release\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="protobuf-net">
+      <HintPath>..\..\Proje\prj\release\protobuf-net.dll</HintPath>
+    </Reference>
+    <Reference Include="protobuf-net.Core">
+      <HintPath>..\..\Proje\prj\release\protobuf-net.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="blala.cs" />
+    <Compile Include="ChooseModule.cs" />
+    <Compile Include="Config.cs" />
+    <Compile Include="CUI.cs" />
+    <Compile Include="DiscordRPC.cs" />
+    <Compile Include="getAcc.cs" />
+    <Compile Include="Module1.cs" />
+    <Compile Include="OpenFile.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Proxy.cs" />
+    <Compile Include="proxyObject.cs" />
+    <Compile Include="puff.cs" />
+    <Compile Include="Stats.cs" />
+    <Compile Include="Titlebar.cs" />
+    <Compile Include="Typewriter.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.manifest" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
