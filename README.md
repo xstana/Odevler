@@ -12,3 +12,4 @@
 
 Okulda verilen ödevleri burda depoluyorum ki gelecekte "Bu böylemi yazılır lan?" diyebileyim. <br>
 
+<a href="https://onuk.tr" rel="dofollow" title="Web Tasarım Hizmetleri">web tasarım</a> hizmetleri arıyorsanız bu siteyi incelemenizi öneririm. Modern ve kullanıcı dostu çözümler sunuyor.
